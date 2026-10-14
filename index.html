@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>本地音乐播放器</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <h1>Music</h1>
+      <div class="search">
+        <input id="search" type="text" placeholder="搜索歌名 / 歌手" autocomplete="off" />
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="list-wrap">
+        <table class="song-table">
+          <thead>
+            <tr>
+              <th class="w-num">#</th>
+              <th>标题</th>
+              <th>歌手</th>
+              <th class="w-time">时长</th>
+            </tr>
+          </thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </section>
+
+      <aside class="now">
+        <div class="art">
+          <div class="disc" id="disc"></div>
+        </div>
+        <div class="meta">
+          <div class="title" id="now-title">未选择</div>
+          <div class="artist" id="now-artist">-</div>
+        </div>
+      </aside>
+    </main>
+
+    <footer class="player">
+      <div class="controls">
+        <button id="prev" class="btn">⏮</button>
+        <button id="play" class="btn play">▶</button>
+        <button id="next" class="btn">⏭</button>
+      </div>
+      <div class="progress">
+        <span id="cur" class="time">00:00</span>
+        <input id="range" type="range" min="0" max="100" step="0.1" value="0" />
+        <span id="dur" class="time">00:00</span>
+      </div>
+      <div class="extra">
+        <button id="mode" class="btn" title="顺序播放">⇆</button>
+        <input id="vol" type="range" min="0" max="1" step="0.01" value="0.8" />
+      </div>
+    </footer>
+
+    <audio id="audio" crossorigin="anonymous" preload="metadata"></audio>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

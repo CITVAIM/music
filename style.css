@@ -1,0 +1,262 @@
+:root {
+  --bg-0: #0b1026;
+  --bg-1: #151a2f;
+  --panel: #1e233f;
+  --text: #eef1ff;
+  --sub: #9aa0c8;
+  --accent: #6c9cff;
+  --border: #2b325f;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+  background: radial-gradient(1000px 600px at 20% -10%, #23284a, transparent), var(--bg-0);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+.app {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 24px 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+
+#search {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 8px 14px;
+  width: 260px;
+  font-size: 14px;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 18px;
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.list-wrap {
+  background: var(--bg-1);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  overflow: hidden;
+  backdrop-filter: blur(4px);
+}
+
+.song-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.song-table thead th {
+  text-align: left;
+  color: var(--sub);
+  font-weight: 600;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.song-table tbody td {
+  padding: 10px 14px;
+  border-bottom: 1px solid rgba(43, 50, 95, 0.6);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 0;
+}
+
+.song-table tbody tr {
+  cursor: pointer;
+}
+
+.song-table tbody tr.active {
+  background: rgba(108, 156, 255, 0.25);
+}
+
+.song-table tbody tr:hover:not(.active) {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.w-num {
+  width: 56px;
+  color: var(--sub);
+}
+
+.w-time {
+  width: 92px;
+  text-align: right;
+}
+
+.now {
+  background: var(--bg-1);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  text-align: center;
+}
+
+.art {
+  width: 240px;
+  height: 240px;
+  border-radius: 20px;
+  background: radial-gradient(circle at 30% 20%, rgba(255, 255, 255, 0.12), transparent),
+    linear-gradient(160deg, #2f355c, #1a1f3a);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.4);
+}
+
+.disc {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #151a2f 40%, #0b1026 41%, #0b1026 70%, #151a2f 71%);
+  position: relative;
+}
+
+.disc::after {
+  content: "";
+  position: absolute;
+  inset: 56px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: inset 0 0 0 6px rgba(255, 255, 255, 0.18);
+}
+
+.disc.spin {
+  animation: spin 20s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.meta .title {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.meta .artist {
+  color: var(--sub);
+}
+
+.player {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(180deg, rgba(15, 19, 38, 0.85), rgba(15, 19, 38, 0.98));
+  border-top: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 12px 18px;
+  backdrop-filter: blur(8px);
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.btn {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn.play {
+  width: 48px;
+  height: 48px;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+}
+
+.progress {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.time {
+  color: var(--sub);
+  font-size: 13px;
+  min-width: 48px;
+  text-align: center;
+}
+
+#range {
+  flex: 1;
+}
+
+.extra {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+@media (max-width: 700px) {
+  .extra {
+    display: none;
+  }
+}
