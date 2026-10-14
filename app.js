@@ -4,6 +4,7 @@
   var songs = [];
   var current = -1;
   var mode = "order";
+
   var list = document.getElementById("tbody");
   var search = document.getElementById("search");
   var audio = document.getElementById("audio");
@@ -20,7 +21,7 @@
   var vol = document.getElementById("vol");
 
   function fmt(sec) {
-    sec = Math.max(0, Math.floor(sec));
+    sec = Math.max(0, Math.floor(sec || 0));
     var m = Math.floor(sec / 60);
     var s = sec % 60;
     return (m < 10 ? "0" + m : m) + ":" + (s < 10 ? "0" + s : s);
@@ -33,9 +34,9 @@
       if (!q) return true;
       return (s.title + " " + s.artist).toLowerCase().indexOf(q) >= 0;
     });
-    filtered.forEach(function (s, idx) {
-      var tr = document.createElement("tr");
+    filtered.forEach(function (s) {
       var realIdx = songs.indexOf(s);
+      var tr = document.createElement("tr");
       if (realIdx === current) tr.classList.add("active");
       tr.innerHTML = "<td class='w-num'>" + (realIdx + 1) + "</td><td>" + s.title + "</td><td>" + s.artist + "</td><td class='w-time'>" + fmt(s.duration) + "</td>";
       tr.addEventListener("click", function () { play(realIdx); });
@@ -49,12 +50,16 @@
       .then(function (data) {
         songs = data || [];
         render();
+      })
+      .catch(function () {
+        songs = [];
+        render();
       });
   }
 
   function setActive() {
     var rows = list.querySelectorAll("tr");
-    rows.forEach(function (tr, i) {
+    rows.forEach(function (tr) {
       var realIdx = parseInt(tr.querySelector(".w-num").textContent) - 1;
       tr.classList.toggle("active", realIdx === current);
     });
@@ -64,6 +69,7 @@
     if (idx < 0 || idx >= songs.length) return;
     current = idx;
     audio.src = songs[idx].src;
+    audio.currentTime = 0;
     audio.play().catch(function () {});
     nowTitle.textContent = songs[idx].title;
     nowArtist.textContent = songs[idx].artist;
@@ -74,7 +80,13 @@
 
   function toggle() {
     if (audio.paused) {
-      audio.play().catch(function () {});
+      if (audio.currentSrc) {
+        audio.play().catch(function () {});
+      } else if (current >= 0) {
+        play(current);
+      } else if (songs.length > 0) {
+        play(0);
+      }
       disc.classList.add("spin");
       playBtn.textContent = "⏸";
     } else {
@@ -104,8 +116,10 @@
 
   audio.addEventListener("timeupdate", function () {
     cur.textContent = fmt(audio.currentTime);
-    if (!isNaN(audio.duration)) {
+    if (!isNaN(audio.duration) && audio.duration > 0) {
       range.value = (audio.currentTime / audio.duration) * 100;
+    } else {
+      range.value = 0;
     }
   });
 
@@ -117,7 +131,7 @@
   audio.addEventListener("ended", next);
 
   range.addEventListener("input", function () {
-    if (!isNaN(audio.duration)) {
+    if (!isNaN(audio.duration) && audio.duration > 0) {
       audio.currentTime = (range.value / 100) * audio.duration;
     }
   });
@@ -125,6 +139,7 @@
   playBtn.addEventListener("click", toggle);
   prevBtn.addEventListener("click", prev);
   nextBtn.addEventListener("click", next);
+
   modeBtn.addEventListener("click", function () {
     if (mode === "order") {
       mode = "shuffle";
@@ -136,9 +151,11 @@
       modeBtn.title = "顺序播放";
     }
   });
+
   vol.addEventListener("input", function () {
     audio.volume = parseFloat(vol.value);
   });
+
   search.addEventListener("input", function () {
     render(search.value);
   });
