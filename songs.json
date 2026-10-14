@@ -1,9 +1,1339 @@
 [
   {
+    "title": "7 Years",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/7 Years.m4a",
+    "duration": 350
+  },
+  {
+    "title": "A Sad Me In Your Eyes",
+    "artist": "昨夜派对(L.N Party)",
+    "album": "Unknown",
+    "src": "files/A Sad Me In Your Eyes.mp3",
+    "duration": 258
+  },
+  {
+    "title": "All for You",
+    "artist": "Stick Figure",
+    "album": "Unknown",
+    "src": "files/All for You.mp3",
+    "duration": 267
+  },
+  {
+    "title": "Apologize - OneRepublic.lrc",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Apologize - OneRepublic.lrc.flac",
+    "duration": 208
+  },
+  {
+    "title": "Baby",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Baby.mp3",
+    "duration": 217
+  },
+  {
+    "title": "California Blue - Roy Orbison",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/California Blue - Roy Orbison.flac",
+    "duration": 1687
+  },
+  {
+    "title": "Call Me Maybe-Carly Rae Jepsen",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Call Me Maybe-Carly Rae Jepsen.flac",
+    "duration": 194
+  },
+  {
+    "title": "Choice Is Yours (with Slightly Stoopid)",
+    "artist": "Stick Figure&Slightly Stoopid",
+    "album": "Unknown",
+    "src": "files/Choice Is Yours (with Slightly Stoopid).mp3",
+    "duration": 306
+  },
+  {
+    "title": "Comptine D'un Autre Ete,Lapres",
+    "artist": "Iain Hemstock",
+    "album": "Unknown",
+    "src": "files/Comptine D'un Autre Ete,Lapres.mp3",
+    "duration": 153
+  },
+  {
+    "title": "Creep",
+    "artist": "Radiohead",
+    "album": "Unknown",
+    "src": "files/Creep.mp3",
+    "duration": 236
+  },
+  {
+    "title": "Give Me Your Love",
+    "artist": "DEAMN",
+    "album": "Save Me (Deluxe)",
+    "src": "files/DEAMN - Give Me Your Love.mp3",
+    "duration": 198
+  },
+  {
+    "title": "Harder, Better, Faster, Stronger",
+    "artist": "Daft Punk",
+    "album": "Discovery",
+    "src": "files/Daft Punk - Harder, Better, Faster, Stronger.mp3",
+    "duration": 226
+  },
+  {
+    "title": "Dans la maison (Thème)",
+    "artist": "Philippe Rombi",
+    "album": "Dans la maison",
+    "src": "files/Dans la maison (Thème).mp3",
+    "duration": 149
+  },
+  {
+    "title": "Fade Into Darkness (Vocal Radi",
+    "artist": "Avicii",
+    "album": "Unknown",
+    "src": "files/Fade Into Darkness (Vocal Radio Edit).mp3",
+    "duration": 198
+  },
+  {
+    "title": "Fire",
+    "artist": "Gavin DeGraw",
+    "album": "Unknown",
+    "src": "files/Fire.mp3",
+    "duration": 229
+  },
+  {
+    "title": "Five Hours",
+    "artist": "Deorro",
+    "album": "Unknown",
+    "src": "files/Five Hours.mp3",
+    "duration": 327
+  },
+  {
+    "title": "Flowers",
+    "artist": "Miley Cyrus",
+    "album": "Unknown",
+    "src": "files/Flowers.mp3",
+    "duration": 200
+  },
+  {
+    "title": "For ya",
+    "artist": "将小呢",
+    "album": "Unknown",
+    "src": "files/For ya.mp3",
+    "duration": 154
+  },
+  {
+    "title": "Golden Hour",
+    "artist": "JVKE&Carta",
+    "album": "Unknown",
+    "src": "files/Golden Hour.mp3",
+    "duration": 209
+  },
+  {
+    "title": "Good Time",
+    "artist": "Carly Rae Jepsen",
+    "album": "Unknown",
+    "src": "files/Good Time.mp3",
+    "duration": 206
+  },
+  {
+    "title": "Gotta Have You",
+    "artist": "The Weepies",
+    "album": "Unknown",
+    "src": "files/Gotta Have You.mp3",
+    "duration": 200
+  },
+  {
+    "title": "Happy New Year-ABBA",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Happy New Year-ABBA.mp3",
+    "duration": 264
+  },
+  {
+    "title": "Happy-Pharrell Williams",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Happy-Pharrell Williams.flac",
+    "duration": 233
+  },
+  {
+    "title": "Hear Me Now",
+    "artist": "Alok&Bruno Martini&Zeeba",
+    "album": "Unknown",
+    "src": "files/Hear Me Now.mp3",
+    "duration": 195
+  },
+  {
+    "title": "Hero",
+    "artist": "Family Of The Year",
+    "album": "Unknown",
+    "src": "files/Hero.mp3",
+    "duration": 190
+  },
+  {
+    "title": "I Guess I Just Feel Like",
+    "artist": "John Mayer",
+    "album": "Unknown",
+    "src": "files/I Guess I Just Feel Like.mp3",
+    "duration": 286
+  },
+  {
+    "title": "I Really Like You",
+    "artist": "Carly Rae Jepsen",
+    "album": "Unknown",
+    "src": "files/I Really Like You.mp3",
+    "duration": 206
+  },
+  {
+    "title": "I Want It That Way-Backstreet Boys",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/I Want It That Way-Backstreet Boys.flac",
+    "duration": 212
+  },
+  {
+    "title": "I'll Be There",
+    "artist": "Jess Glynne",
+    "album": "Unknown",
+    "src": "files/I'll Be There.mp3",
+    "duration": 194
+  },
+  {
+    "title": "Jar Of Love",
+    "artist": "曲婉婷",
+    "album": "Unknown",
+    "src": "files/Jar Of Love.mp3",
+    "duration": 231
+  },
+  {
+    "title": "Chained To The Rhythm",
+    "artist": "Katy Perry feat. Skip Marley",
+    "album": "Unknown",
+    "src": "files/Katy Perry feat. Skip Marley - Chained To The Rhythm myfreemp3.vip .mp3",
+    "duration": 238
+  },
+  {
+    "title": "Kyndykan",
+    "artist": "Kitjah&MOSKILA",
+    "album": "Unknown",
+    "src": "files/Kyndykan.mp3",
+    "duration": 139
+  },
+  {
+    "title": "Lemon Tree",
+    "artist": "Richard Clayderman",
+    "album": "Unknown",
+    "src": "files/Lemon Tree.mp3",
+    "duration": 191
+  },
+  {
+    "title": "Let Her Go myfreemp3.vip",
+    "artist": "Passenger",
+    "album": "Unknown",
+    "src": "files/Let Her Go myfreemp3.vip .mp3",
+    "duration": 253
+  },
+  {
+    "title": "Let It Go",
+    "artist": "Joshua Hyslop",
+    "album": "Unknown",
+    "src": "files/Let It Go.mp3",
+    "duration": 209
+  },
+  {
+    "title": "Let Me Down Slowly",
+    "artist": "Alec Benjamin feat. Alessia Ca",
+    "album": "Unknown",
+    "src": "files/Let Me Down Slowly.mp3",
+    "duration": 169
+  },
+  {
+    "title": "Lights",
+    "artist": "Ellie Goulding",
+    "album": "Unknown",
+    "src": "files/Lights.mp3",
+    "duration": 212
+  },
+  {
+    "title": "Long Shot",
+    "artist": "Trademark(Cash Cash x Clean Ba",
+    "album": "Unknown",
+    "src": "files/Long Shot.mp3",
+    "duration": 159
+  },
+  {
+    "title": "Love Me Like You Do-Ellie Goulding",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Love Me Like You Do-Ellie Goulding.flac",
+    "duration": 250
+  },
+  {
+    "title": "Fly",
+    "artist": "Ludovico Einaudi",
+    "album": "The Intouchables",
+    "src": "files/Ludovico Einaudi - Fly.mp3",
+    "duration": 201
+  },
+  {
+    "title": "Melody (Original mix)",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Melody (Original mix).m4a",
+    "duration": 228
+  },
+  {
+    "title": "Mystery of Love",
+    "artist": "Sufjan Stevens",
+    "album": "Unknown",
+    "src": "files/Mystery of Love.mp3",
+    "duration": 249
+  },
+  {
+    "title": "New Boy",
+    "artist": "房东的猫",
+    "album": "Unknown",
+    "src": "files/New Boy.mp3",
+    "duration": 253
+  },
+  {
+    "title": "A Moment Apart",
+    "artist": "ODESZA",
+    "album": "A Moment Apart (Deluxe Edition)",
+    "src": "files/ODESZA - A Moment Apart.mp3",
+    "duration": 234
+  },
+  {
+    "title": "On A Roll",
+    "artist": "Ashley O",
+    "album": "Unknown",
+    "src": "files/On A Roll.mp3",
+    "duration": 154
+  },
+  {
+    "title": "Pam Pam",
+    "artist": "Noel Toto",
+    "album": "Unknown",
+    "src": "files/Pam, Pam.mp3",
+    "duration": 196
+  },
+  {
+    "title": "Payphone - Maroon 5,Wiz Khalifa",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Payphone - Maroon 5,Wiz Khalifa.flac",
+    "duration": 2734
+  },
+  {
+    "title": "Peoples",
+    "artist": "Cheers Elephant",
+    "album": "Unknown",
+    "src": "files/Peoples.mp3",
+    "duration": 199
+  },
+  {
+    "title": "Perfect (Acoustic)-Ed Sheeran",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Perfect (Acoustic)-Ed Sheeran.flac",
+    "duration": 261
+  },
+  {
+    "title": "Peter Pan Was Right",
+    "artist": "Anson Seabra",
+    "album": "Unknown",
+    "src": "files/Peter Pan Was Right.mp3",
+    "duration": 193
+  },
+  {
+    "title": "Pretty Woman - Roy Orbison",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Pretty Woman - Roy Orbison.mp3",
+    "duration": 177
+  },
+  {
+    "title": "Rather Be",
+    "artist": "Clean Bandit feat. Jess Glynne",
+    "album": "Unknown",
+    "src": "files/Rather Be.mp3",
+    "duration": 228
+  },
+  {
+    "title": "Record Player",
+    "artist": "Daisy The Great x AJR",
+    "album": "Unknown",
+    "src": "files/Record Player.mp3",
+    "duration": 155
+  },
+  {
+    "title": "Rolling in the deep",
+    "artist": "Adele",
+    "album": "Unknown",
+    "src": "files/Rolling in the deep.mp3",
+    "duration": 229
+  },
+  {
+    "title": "Runaway",
+    "artist": "Aurora",
+    "album": "Unknown",
+    "src": "files/Runaway.mp3",
+    "duration": 214
+  },
+  {
+    "title": "Sealed With A Kiss(以吻封缄) - Dana Winner",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Sealed With A Kiss(以吻封缄) - Dana Winner.mp3",
+    "duration": 193
+  },
+  {
+    "title": "Send It",
+    "artist": "Austin Mahone feat. Rich Homie",
+    "album": "Unknown",
+    "src": "files/Send It .mp3",
+    "duration": 181
+  },
+  {
+    "title": "Seve",
+    "artist": "Tez Cadey",
+    "album": "Unknown",
+    "src": "files/Seve.mp3",
+    "duration": 210
+  },
+  {
+    "title": "Shape Of My Heart",
+    "artist": "Katia Labèque, Sting",
+    "album": "Unknown",
+    "src": "files/Shape Of My Heart.mp3",
+    "duration": 279
+  },
+  {
+    "title": "风的季节",
+    "artist": "Soler",
+    "album": "Canto",
+    "src": "files/Soler - 风的季节.mp3",
+    "duration": 250
+  },
+  {
+    "title": "Stay Alive",
+    "artist": "José González",
+    "album": "Unknown",
+    "src": "files/Stay Alive.mp3",
+    "duration": 267
+  },
+  {
+    "title": "Sugar",
+    "artist": "Maroon 5",
+    "album": "Unknown",
+    "src": "files/Sugar.mp3",
+    "duration": 236
+  },
+  {
+    "title": "Sway My Way",
+    "artist": "R3HAB /Amy Shark",
+    "album": "Unknown",
+    "src": "files/Sway My Way.mp3",
+    "duration": 137
+  },
+  {
+    "title": "Sweet but Psycho-Ava Max",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Sweet but Psycho-Ava Max.flac",
+    "duration": 187
+  },
+  {
+    "title": "Telescope",
+    "artist": "Tim Legend feat. Transviolet",
+    "album": "Unknown",
+    "src": "files/Telescope.mp3",
+    "duration": 176
+  },
+  {
+    "title": "The Sound of Silence",
+    "artist": "Simon & Garfunkel",
+    "album": "Unknown",
+    "src": "files/The Sound of Silence.mp3",
+    "duration": 186
+  },
+  {
+    "title": "These Days",
+    "artist": "Rudimental feat. Jess Glynne,",
+    "album": "Unknown",
+    "src": "files/These Days.mp3",
+    "duration": 211
+  },
+  {
+    "title": "Thriller - Michael Jackson",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Thriller - Michael Jackson.mp3",
+    "duration": 358
+  },
+  {
+    "title": "Try",
+    "artist": "Asher Book",
+    "album": "Unknown",
+    "src": "files/Try.mp3",
+    "duration": 206
+  },
+  {
+    "title": "We Are Young - Fun.,Janelle Monáe",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/We Are Young - Fun.,Janelle Monáe.flac",
+    "duration": 251
+  },
+  {
+    "title": "Welcome To New York",
+    "artist": "Taylor Swift",
+    "album": "Unknown",
+    "src": "files/Welcome To New York.mp3",
+    "duration": 213
+  },
+  {
+    "title": "Wrecking Ball",
+    "artist": "Miley Cyrus",
+    "album": "Unknown",
+    "src": "files/Wrecking Ball.mp3",
+    "duration": 223
+  },
+  {
+    "title": "XXXTENTACION - whoa",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/XXXTENTACION - whoa.mp3",
+    "duration": 162
+  },
+  {
+    "title": "Yellow",
+    "artist": "Coldplay",
+    "album": "Unknown",
+    "src": "files/Yellow.mp3",
+    "duration": 267
+  },
+  {
+    "title": "Yesterday Once More 1991 Remix-Carpenters",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Yesterday Once More 1991 Remix-Carpenters.flac",
+    "duration": 238
+  },
+  {
+    "title": "You're Gonna Live Forever in M",
+    "artist": "John Mayer",
+    "album": "Unknown",
+    "src": "files/You're Gonna Live Forever in Me.mp3",
+    "duration": 190
+  },
+  {
+    "title": "Youre Beautiful-James Blunt",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/Youre Beautiful-James Blunt.flac",
+    "duration": 213
+  },
+  {
+    "title": "how far ill go-alessia cara",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/how far ill go-alessia cara.flac",
+    "duration": 176
+  },
+  {
+    "title": "shape of you-ed sheeran",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/shape of you-ed sheeran.flac",
+    "duration": 234
+  },
+  {
+    "title": "touch my body - mariah carey",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/touch my body - mariah carey.flac",
+    "duration": 205
+  },
+  {
+    "title": "一万个舍不得",
+    "artist": "庄心妍",
+    "album": "Unknown",
+    "src": "files/一万个舍不得.mp3",
+    "duration": 208
+  },
+  {
+    "title": "万能青年旅店 - 山雀",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/万能青年旅店 - 山雀.ogg",
+    "duration": 198
+  },
+  {
+    "title": "下雨天-与少年他,芝麻Mochi",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/下雨天-与少年他,芝麻Mochi.flac",
+    "duration": 266
+  },
+  {
+    "title": "不期而遇",
+    "artist": "李健",
+    "album": "Unknown",
+    "src": "files/不期而遇.mp3",
+    "duration": 283
+  },
+  {
+    "title": "世界上的另一个我",
+    "artist": "阿肆/郭采洁",
+    "album": "Unknown",
+    "src": "files/世界上的另一个我.mp3",
+    "duration": 238
+  },
+  {
+    "title": "以后的以后",
+    "artist": "庄心妍",
+    "album": "Unknown",
+    "src": "files/以后的以后.mp3",
+    "duration": 300
+  },
+  {
+    "title": "体面",
+    "artist": "于文文",
+    "album": "Unknown",
+    "src": "files/体面.mp3",
+    "duration": 283
+  },
+  {
+    "title": "你是玫瑰",
+    "artist": "Haso",
+    "album": "Unknown",
+    "src": "files/你是玫瑰.mp3",
+    "duration": 162
+  },
+  {
+    "title": "依兰爱情故事",
+    "artist": "方磊 & 贾玲",
+    "album": "Unknown",
+    "src": "files/依兰爱情故事.mp3",
+    "duration": 298
+  },
+  {
+    "title": "偏爱",
+    "artist": "张芸京",
+    "album": "Unknown",
+    "src": "files/偏爱.mp3",
+    "duration": 212
+  },
+  {
+    "title": "再谈记忆",
+    "artist": "盘尼西林乐队",
+    "album": "Unknown",
+    "src": "files/再谈记忆.mp3",
+    "duration": 328
+  },
+  {
+    "title": "刚好遇见你",
+    "artist": "李玉刚",
+    "album": "Unknown",
+    "src": "files/刚好遇见你.mp3",
+    "duration": 200
+  },
+  {
+    "title": "初恋",
+    "artist": "回春丹乐队",
+    "album": "Unknown",
+    "src": "files/初恋.mp3",
+    "duration": 222
+  },
+  {
+    "title": "别再问我什么是迪斯科",
+    "artist": "张蔷",
+    "album": "Unknown",
+    "src": "files/别再问我什么是迪斯科.mp3",
+    "duration": 217
+  },
+  {
+    "title": "Manta",
+    "artist": "劉柏辛Lexie",
+    "album": "Manta",
+    "src": "files/劉柏辛Lexie - Manta.mp3",
+    "duration": 202
+  },
+  {
+    "title": "X",
+    "artist": "劉柏辛Lexie",
+    "album": "TEENAGE RAMBLE",
+    "src": "files/劉柏辛Lexie - X.mp3",
+    "duration": 200
+  },
+  {
+    "title": "千里之外",
+    "artist": "周杰伦/费玉清",
+    "album": "Unknown",
+    "src": "files/千里之外.mp3",
+    "duration": 254
+  },
+  {
+    "title": "南方姑娘",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/南方姑娘.m4a",
+    "duration": 333
+  },
+  {
+    "title": "危险派对",
+    "artist": "王以太/刘至佳",
+    "album": "Unknown",
+    "src": "files/危险派对.mp3",
+    "duration": 181
+  },
+  {
+    "title": "原来你什么都不要",
+    "artist": "孙燕姿",
+    "album": "Unknown",
+    "src": "files/原来你什么都不要.mp3",
+    "duration": 223
+  },
+  {
+    "title": "可爱女人",
+    "artist": "周杰伦",
+    "album": "Unknown",
+    "src": "files/可爱女人.mp3",
+    "duration": 239
+  },
+  {
+    "title": "向往",
+    "artist": "李健",
+    "album": "Unknown",
+    "src": "files/向往.mp3",
+    "duration": 240
+  },
+  {
+    "title": "告白气球",
+    "artist": "周杰伦",
+    "album": "Unknown",
+    "src": "files/告白气球.mp3",
+    "duration": 216
+  },
+  {
+    "title": "唯一",
+    "artist": "告五人",
+    "album": "Unknown",
+    "src": "files/唯一.mp3",
+    "duration": 271
+  },
+  {
+    "title": "嘀嗒",
+    "artist": "侃侃",
+    "album": "Unknown",
+    "src": "files/嘀嗒.mp3",
+    "duration": 252
+  },
+  {
+    "title": "备选B",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/备选B.m4a",
+    "duration": 200
+  },
+  {
+    "title": "大雨还在下",
+    "artist": "DJ小鱼儿&高夫",
+    "album": "Unknown",
+    "src": "files/大雨还在下.mp3",
+    "duration": 291
+  },
+  {
+    "title": "天使的翅膀",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/天使的翅膀.flac",
+    "duration": 220
+  },
+  {
+    "title": "天黑黑",
+    "artist": "孙燕姿",
+    "album": "Unknown",
+    "src": "files/天黑黑.mp3",
+    "duration": 237
+  },
+  {
+    "title": "她她她",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/她她她.mp3",
+    "duration": 311
+  },
+  {
+    "title": "如愿",
+    "artist": "王菲",
+    "album": "Unknown",
+    "src": "files/如愿.mp3",
+    "duration": 265
+  },
+  {
+    "title": "姑娘在远方",
+    "artist": "柯柯柯啊",
+    "album": "Unknown",
+    "src": "files/姑娘在远方.mp3",
+    "duration": 203
+  },
+  {
+    "title": "我怀念的",
+    "artist": "孙燕姿",
+    "album": "Unknown",
+    "src": "files/孙燕姿 - 我怀念的 myfreemp3.vip .mp3",
+    "duration": 289
+  },
+  {
+    "title": "我的爱",
+    "artist": "孙燕姿",
+    "album": "Stefanie",
+    "src": "files/孙燕姿 - 我的爱.mp3",
+    "duration": 264
+  },
+  {
+    "title": "安和桥",
+    "artist": "宇西",
+    "album": "安和桥",
+    "src": "files/宇西 - 安和桥.mp3",
+    "duration": 249
+  },
+  {
+    "title": "寂寞沙洲冷",
+    "artist": "周传雄",
+    "album": "Unknown",
+    "src": "files/寂寞沙洲冷.mp3",
+    "duration": 275
+  },
+  {
+    "title": "小宝贝私奔版 -夏天播放",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/小宝贝私奔版 -夏天播放.flac",
+    "duration": 192
+  },
+  {
+    "title": "小情歌",
+    "artist": "苏打绿",
+    "album": "Unknown",
+    "src": "files/小情歌.mp3",
+    "duration": 277
+  },
+  {
+    "title": "带我去找夜生活",
+    "artist": "告五人",
+    "album": "Unknown",
+    "src": "files/带我去找夜生活.mp3",
+    "duration": 300
+  },
+  {
+    "title": "平凡之路",
+    "artist": "朴树",
+    "album": "Unknown",
+    "src": "files/平凡之路.mp3",
+    "duration": 302
+  },
+  {
+    "title": "当你老了",
+    "artist": "赵照",
+    "album": "Unknown",
+    "src": "files/当你老了.mp3",
+    "duration": 314
+  },
+  {
+    "title": "风的季节",
+    "artist": "徐小凤",
+    "album": "徐小凤精选DSD Collection Vol. 1",
+    "src": "files/徐小凤 - 风的季节.mp3",
+    "duration": 245
+  },
+  {
+    "title": "愿与愁",
+    "artist": "林俊杰",
+    "album": "Unknown",
+    "src": "files/愿与愁 Dust and Ashes.mp3",
+    "duration": 231
+  },
+  {
+    "title": "愿得一人心",
+    "artist": "李行亮",
+    "album": "Unknown",
+    "src": "files/愿得一人心.mp3",
+    "duration": 277
+  },
+  {
+    "title": "成都-赵雷",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/成都-赵雷.mp3",
+    "duration": 328
+  },
+  {
+    "title": "我们好像在哪见过",
+    "artist": "叶蓓、杨宗纬",
+    "album": "Unknown",
+    "src": "files/我们好像在哪见过.mp3",
+    "duration": 197
+  },
+  {
+    "title": "我们的歌",
+    "artist": "王力宏",
+    "album": "Unknown",
+    "src": "files/我们的歌.mp3",
+    "duration": 245
+  },
+  {
+    "title": "我只在乎你-邓丽君",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/我只在乎你-邓丽君.flac",
+    "duration": 257
+  },
+  {
+    "title": "我要你",
+    "artist": "任素汐",
+    "album": "Unknown",
+    "src": "files/我要你.mp3",
+    "duration": 154
+  },
+  {
+    "title": "手语",
+    "artist": "周杰伦",
+    "album": "Unknown",
+    "src": "files/手语.mp3",
+    "duration": 289
+  },
+  {
+    "title": "故乡山川",
+    "artist": "李健",
+    "album": "Unknown",
+    "src": "files/故乡山川.mp3",
+    "duration": 292
+  },
+  {
+    "title": "新不了情 - 万芳",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/新不了情 - 万芳.flac",
+    "duration": 268
+  },
+  {
+    "title": "普通朋友-陶喆",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/普通朋友-陶喆.flac",
+    "duration": 255
+  },
+  {
+    "title": "晴天",
+    "artist": "周杰伦",
+    "album": "Unknown",
+    "src": "files/晴天.mp3",
+    "duration": 270
+  },
+  {
+    "title": "月亮代表我的心里有问题",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/月亮代表我的心里有问题.m4a",
+    "duration": 203
+  },
+  {
+    "title": "杀死那个石家庄人",
+    "artist": "万能青年旅店",
+    "album": "Unknown",
+    "src": "files/杀死那个石家庄人.mp3",
+    "duration": 344
+  },
+  {
+    "title": "李白",
+    "artist": "李荣浩",
+    "album": "模特",
+    "src": "files/李白 - 李荣浩.mp3",
+    "duration": 273
+  },
+  {
+    "title": "从你叫什么名字开始（Cover 雨宫天）",
+    "artist": "杜若Dora/少年霜/夜雨幽寒/池年/挽萤/樱庭落/小盒纸酱/曼姝/焦尾",
+    "album": "从你叫什么名字开始",
+    "src": "files/杜若Dora,少年霜,夜雨幽寒 - 从你叫什么名字开始（Cover 雨宫天）.mp3",
+    "duration": 305
+  },
+  {
+    "title": "学不会",
+    "artist": "林俊杰",
+    "album": "学不会",
+    "src": "files/林俊杰 - 学不会.mp3",
+    "duration": 230
+  },
+  {
+    "title": "水流众生",
+    "artist": "李健",
+    "album": "Unknown",
+    "src": "files/水流众生-李健.mp3",
+    "duration": 281
+  },
+  {
+    "title": "圆桌骑士",
+    "artist": "汤颖",
+    "album": "神话（圆桌骑士）",
+    "src": "files/汤颖 - 圆桌骑士.mp3",
+    "duration": 179
+  },
+  {
+    "title": "渡口 - 蔡琴",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/渡口 - 蔡琴.flac",
+    "duration": 227
+  },
+  {
+    "title": "演员",
+    "artist": "薛之谦",
+    "album": "Unknown",
+    "src": "files/演员.mp3",
+    "duration": 261
+  },
+  {
+    "title": "爱人错过",
+    "artist": "告五人",
+    "album": "Unknown",
+    "src": "files/爱人错过.mp3",
+    "duration": 278
+  },
+  {
+    "title": "爱如火",
+    "artist": "一只瓜瓜",
+    "album": "Unknown",
+    "src": "files/爱如火.mp3",
+    "duration": 124
+  },
+  {
+    "title": "小幸运",
+    "artist": "田馥甄",
+    "album": "我的少女时代 电影原声带",
+    "src": "files/田馥甄 - 小幸运.mp3",
+    "duration": 264
+  },
+  {
+    "title": "程佳佳 - 山楂树之恋",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/程佳佳 - 山楂树之恋.flac",
+    "duration": 185
+  },
+  {
+    "title": "稻香",
+    "artist": "周杰伦",
+    "album": "Unknown",
+    "src": "files/稻香.mp3",
+    "duration": 223
+  },
+  {
+    "title": "童话镇",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/童话镇.mp3",
+    "duration": 252
+  },
+  {
+    "title": "我一定要得到你",
+    "artist": "筷子兄弟",
+    "album": "我一定要得到你",
+    "src": "files/筷子兄弟 - 我一定要得到你.mp3",
+    "duration": 204
+  },
+  {
+    "title": "筷子兄弟 - 老男孩",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/筷子兄弟 - 老男孩.flac",
+    "duration": 300
+  },
+  {
+    "title": "红豆",
+    "artist": "王菲",
+    "album": "Unknown",
+    "src": "files/红豆.mp3",
+    "duration": 256
+  },
+  {
+    "title": "给你一瓶魔法药水",
+    "artist": "那英",
+    "album": "Unknown",
+    "src": "files/给你一瓶魔法药水-那英.mp3",
+    "duration": 198
+  },
+  {
+    "title": "给你一瓶魔法药水",
+    "artist": "告五人",
+    "album": "Unknown",
+    "src": "files/给你一瓶魔法药水.mp3",
+    "duration": 259
+  },
+  {
+    "title": "绿光",
+    "artist": "孙燕姿",
+    "album": "Unknown",
+    "src": "files/绿光.mp3",
+    "duration": 194
+  },
+  {
+    "title": "皇后大道东",
+    "artist": "罗大佑",
+    "album": "皇后大道东",
+    "src": "files/罗大佑 - HuanghouDadaoDong.mp3",
+    "duration": 254
+  },
+  {
+    "title": "罗生门",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/罗生门0.8.mp3",
+    "duration": 305
+  },
+  {
+    "title": "群青",
+    "artist": "YOASOBI",
+    "album": "Unknown",
+    "src": "files/群青.mp3",
+    "duration": 248
+  },
+  {
+    "title": "艾琳娜",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/艾琳娜.flac",
+    "duration": 253
+  },
+  {
+    "title": "花火が瞬く夜に",
+    "artist": "羽肿",
+    "album": "Unknown",
+    "src": "files/花火が瞬く夜に.mp3",
+    "duration": 271
+  },
+  {
+    "title": "若把你",
+    "artist": "Kirsty刘瑾睿",
+    "album": "Unknown",
+    "src": "files/若把你.mp3",
+    "duration": 209
+  },
+  {
+    "title": "莫问归期 - 蒋雪儿Snow.J",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/莫问归期 - 蒋雪儿Snow.J.mp3",
+    "duration": 219
+  },
+  {
+    "title": "蝴蝶泉边",
+    "artist": "黄雅莉",
+    "album": "Unknown",
+    "src": "files/蝴蝶泉边.mp3",
+    "duration": 245
+  },
+  {
+    "title": "裹着心的光",
+    "artist": "林俊杰",
+    "album": "Unknown",
+    "src": "files/裹着心的光.mp3",
+    "duration": 273
+  },
+  {
+    "title": "裹着心的光",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/裹着心的光.wav",
+    "duration": 274
+  },
+  {
+    "title": "贝加尔湖畔",
+    "artist": "李健",
+    "album": "Unknown",
+    "src": "files/贝加尔湖畔.mp3",
+    "duration": 241
+  },
+  {
+    "title": "朵",
+    "artist": "赵雷",
+    "album": "无法长大",
+    "src": "files/赵雷 - 朵.mp3",
+    "duration": 292
+  },
+  {
+    "title": "路过人间",
+    "artist": "郁可唯",
+    "album": "Unknown",
+    "src": "files/路过人间.mp3",
+    "duration": 252
+  },
+  {
+    "title": "这世界那么多人",
+    "artist": "莫文蔚",
+    "album": "Unknown",
+    "src": "files/这世界那么多人.mp3",
+    "duration": 286
+  },
+  {
+    "title": "远走高飞",
+    "artist": "金志文,徐佳莹",
+    "album": "Hello 1",
+    "src": "files/远走高飞(合唱版) - 金志文,徐佳莹.mp3",
+    "duration": 236
+  },
+  {
     "title": "送你一朵小红花",
     "artist": "Unknown",
     "album": "Unknown",
     "src": "files/送你一朵小红花.mp3",
     "duration": 220
+  },
+  {
+    "title": "遇见",
+    "artist": "孙燕姿",
+    "album": "Unknown",
+    "src": "files/遇见.mp3",
+    "duration": 211
+  },
+  {
+    "title": "野子",
+    "artist": "苏运莹",
+    "album": "Unknown",
+    "src": "files/野子.mp3",
+    "duration": 297
+  },
+  {
+    "title": "City of Stars - 陈一发儿",
+    "artist": "陈一发儿",
+    "album": "陈一发儿",
+    "src": "files/陈一发儿 - City of Stars.mp3",
+    "duration": 140
+  },
+  {
+    "title": "Let her go - 陈一发儿",
+    "artist": "陈一发儿",
+    "album": "陈一发儿",
+    "src": "files/陈一发儿 - Let her go.mp3",
+    "duration": 173
+  },
+  {
+    "title": "陈一发儿 - 但愿人长久",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/陈一发儿 - 但愿人长久.mp3",
+    "duration": 262
+  },
+  {
+    "title": "陈一发儿 - 外面的世界",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/陈一发儿 - 外面的世界.mp3",
+    "duration": 275
+  },
+  {
+    "title": "陈一发儿 - 夜空中最亮的星",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/陈一发儿 - 夜空中最亮的星.mp3",
+    "duration": 297
+  },
+  {
+    "title": "天黑黑",
+    "artist": "陈一发儿",
+    "album": "Unknown",
+    "src": "files/陈一发儿 - 天黑黑.mp3",
+    "duration": 233
+  },
+  {
+    "title": "太聰明",
+    "artist": "陳一發兒",
+    "album": "太聰明",
+    "src": "files/陈一发儿 - 太聪明.mp3",
+    "duration": 263
+  },
+  {
+    "title": "陈一发儿 - 童话镇",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/陈一发儿 - 童话镇.flac",
+    "duration": 258
+  },
+  {
+    "title": "雨爱",
+    "artist": "杨丞琳",
+    "album": "Unknown",
+    "src": "files/雨爱.mp3",
+    "duration": 251
+  },
+  {
+    "title": "青花瓷",
+    "artist": "周杰伦",
+    "album": "Unknown",
+    "src": "files/青花瓷.mp3",
+    "duration": 237
+  },
+  {
+    "title": "女孩",
+    "artist": "韦礼安",
+    "album": "硬戳",
+    "src": "files/韦礼安 - 女孩.mp3",
+    "duration": 306
+  },
+  {
+    "title": "芒种",
+    "artist": "音阙诗听, 赵方婧",
+    "album": "二十四节气",
+    "src": "files/音阙诗听, 赵方婧 - 芒种.mp3",
+    "duration": 216
+  },
+  {
+    "title": "须尽欢",
+    "artist": "郑浩",
+    "album": "须尽欢",
+    "src": "files/须尽欢 - 郑浩.mp3",
+    "duration": 278
+  },
+  {
+    "title": "鸳鸯戏",
+    "artist": "略略略",
+    "album": "Unknown",
+    "src": "files/鸳鸯戏.mp3",
+    "duration": 214
+  },
+  {
+    "title": "春风十里",
+    "artist": "鹿先森乐队",
+    "album": "所有的酒，都不如你",
+    "src": "files/鹿先森乐队 - 春风十里.mp3",
+    "duration": 376
+  },
+  {
+    "title": "黑豹乐队 - Don't Break My Heart",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "src": "files/黑豹乐队 - Don't Break My Heart.flac",
+    "duration": 319
+  },
+  {
+    "title": "默",
+    "artist": "那英",
+    "album": "Unknown",
+    "src": "files/默.mp3",
+    "duration": 326
+  },
+  {
+    "title": "龙卷风",
+    "artist": "周杰伦",
+    "album": "Unknown",
+    "src": "files/龙卷风.mp3",
+    "duration": 249
   }
 ]
