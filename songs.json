@@ -4,7 +4,7 @@
     "artist": "Unknown",
     "album": "Unknown",
     "src": "files/7 Years.m4a",
-    "duration": 350
+    "duration": 237
   },
   {
     "title": "A Sad Me In Your Eyes",
@@ -24,7 +24,7 @@
     "title": "Apologize - OneRepublic.lrc",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/Apologize - OneRepublic.lrc.flac",
+    "src": "files/Apologize - OneRepublic.lrc.mp3",
     "duration": 208
   },
   {
@@ -35,17 +35,17 @@
     "duration": 217
   },
   {
-    "title": "California Blue - Roy Orbison",
-    "artist": "Unknown",
+    "title": "California Blue",
+    "artist": "Roy Orbison",
     "album": "Unknown",
-    "src": "files/California Blue - Roy Orbison.flac",
-    "duration": 1687
+    "src": "files/California Blue - Roy Orbison.mp3",
+    "duration": 239
   },
   {
     "title": "Call Me Maybe-Carly Rae Jepsen",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/Call Me Maybe-Carly Rae Jepsen.flac",
+    "src": "files/Call Me Maybe-Carly Rae Jepsen.mp3",
     "duration": 194
   },
   {
@@ -157,7 +157,7 @@
     "title": "Happy-Pharrell Williams",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/Happy-Pharrell Williams.flac",
+    "src": "files/Happy-Pharrell Williams.mp3",
     "duration": 233
   },
   {
@@ -192,7 +192,7 @@
     "title": "I Want It That Way-Backstreet Boys",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/I Want It That Way-Backstreet Boys.flac",
+    "src": "files/I Want It That Way-Backstreet Boys.mp3",
     "duration": 212
   },
   {
@@ -269,7 +269,7 @@
     "title": "Love Me Like You Do-Ellie Goulding",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/Love Me Like You Do-Ellie Goulding.flac",
+    "src": "files/Love Me Like You Do-Ellie Goulding.mp3",
     "duration": 250
   },
   {
@@ -325,8 +325,8 @@
     "title": "Payphone - Maroon 5,Wiz Khalifa",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/Payphone - Maroon 5,Wiz Khalifa.flac",
-    "duration": 2734
+    "src": "files/Payphone - Maroon 5,Wiz Khalifa.mp3",
+    "duration": 232
   },
   {
     "title": "Peoples",
@@ -336,10 +336,10 @@
     "duration": 199
   },
   {
-    "title": "Perfect (Acoustic)-Ed Sheeran",
-    "artist": "Unknown",
+    "title": "Perfect (Acoustic)[music.migu.cn]",
+    "artist": "Ed Sheeran[music.migu.cn]",
     "album": "Unknown",
-    "src": "files/Perfect (Acoustic)-Ed Sheeran.flac",
+    "src": "files/Perfect (Acoustic)-Ed Sheeran.mp3",
     "duration": 261
   },
   {
@@ -441,10 +441,10 @@
     "duration": 137
   },
   {
-    "title": "Sweet but Psycho-Ava Max",
-    "artist": "Unknown",
-    "album": "Unknown",
-    "src": "files/Sweet but Psycho-Ava Max.flac",
+    "title": "Sweet but Psycho",
+    "artist": "Ava Max",
+    "album": "Sweet but Psycho",
+    "src": "files/Sweet but Psycho-Ava Max.mp3",
     "duration": 187
   },
   {
@@ -486,7 +486,7 @@
     "title": "We Are Young - Fun.,Janelle Monáe",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/We Are Young - Fun.,Janelle Monáe.flac",
+    "src": "files/We Are Young - Fun.,Janelle Monáe.mp3",
     "duration": 251
   },
   {
@@ -518,11 +518,11 @@
     "duration": 267
   },
   {
-    "title": "Yesterday Once More 1991 Remix-Carpenters",
-    "artist": "Unknown",
+    "title": "Yesterday Once More (1991 Remix)",
+    "artist": "Carpenters",
     "album": "Unknown",
-    "src": "files/Yesterday Once More 1991 Remix-Carpenters.flac",
-    "duration": 238
+    "src": "files/Yesterday Once More 1991 Remix-Carpenters.mp3",
+    "duration": 239
   },
   {
     "title": "You're Gonna Live Forever in M",
@@ -535,28 +535,28 @@
     "title": "Youre Beautiful-James Blunt",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/Youre Beautiful-James Blunt.flac",
+    "src": "files/Youre Beautiful-James Blunt.mp3",
     "duration": 213
   },
   {
     "title": "how far ill go-alessia cara",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/how far ill go-alessia cara.flac",
+    "src": "files/how far ill go-alessia cara.mp3",
     "duration": 176
   },
   {
-    "title": "shape of you-ed sheeran",
-    "artist": "Unknown",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
     "album": "Unknown",
-    "src": "files/shape of you-ed sheeran.flac",
+    "src": "files/shape of you-ed sheeran.mp3",
     "duration": 234
   },
   {
     "title": "touch my body - mariah carey",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/touch my body - mariah carey.flac",
+    "src": "files/touch my body - mariah carey.mp3",
     "duration": 205
   },
   {
@@ -570,15 +570,15 @@
     "title": "万能青年旅店 - 山雀",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/万能青年旅店 - 山雀.ogg",
+    "src": "files/万能青年旅店 - 山雀.mp3",
     "duration": 198
   },
   {
     "title": "下雨天-与少年他,芝麻Mochi",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/下雨天-与少年他,芝麻Mochi.flac",
-    "duration": 266
+    "src": "files/下雨天-与少年他,芝麻Mochi.mp3",
+    "duration": 68
   },
   {
     "title": "不期而遇",
@@ -680,7 +680,7 @@
   },
   {
     "title": "南方姑娘",
-    "artist": "Unknown",
+    "artist": "赵雷",
     "album": "Unknown",
     "src": "files/南方姑娘.m4a",
     "duration": 333
@@ -736,8 +736,8 @@
   },
   {
     "title": "备选B",
-    "artist": "Unknown",
-    "album": "Unknown",
+    "artist": "比奇小羊堡",
+    "album": "白月光的杀伤力",
     "src": "files/备选B.m4a",
     "duration": 200
   },
@@ -750,9 +750,9 @@
   },
   {
     "title": "天使的翅膀",
-    "artist": "Unknown",
+    "artist": "安琥",
     "album": "Unknown",
-    "src": "files/天使的翅膀.flac",
+    "src": "files/天使的翅膀.mp3",
     "duration": 220
   },
   {
@@ -812,10 +812,10 @@
     "duration": 275
   },
   {
-    "title": "小宝贝私奔版 -夏天播放",
-    "artist": "Unknown",
+    "title": "小宝贝(私奔版 )",
+    "artist": "夏天播放",
     "album": "Unknown",
-    "src": "files/小宝贝私奔版 -夏天播放.flac",
+    "src": "files/小宝贝私奔版 -夏天播放.mp3",
     "duration": 192
   },
   {
@@ -892,7 +892,7 @@
     "title": "我只在乎你-邓丽君",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/我只在乎你-邓丽君.flac",
+    "src": "files/我只在乎你-邓丽君.mp3",
     "duration": 257
   },
   {
@@ -920,14 +920,14 @@
     "title": "新不了情 - 万芳",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/新不了情 - 万芳.flac",
+    "src": "files/新不了情 - 万芳.mp3",
     "duration": 268
   },
   {
-    "title": "普通朋友-陶喆",
-    "artist": "Unknown",
+    "title": "普通朋友",
+    "artist": "陶喆",
     "album": "Unknown",
-    "src": "files/普通朋友-陶喆.flac",
+    "src": "files/普通朋友-陶喆.mp3",
     "duration": 255
   },
   {
@@ -990,7 +990,7 @@
     "title": "渡口 - 蔡琴",
     "artist": "Unknown",
     "album": "Unknown",
-    "src": "files/渡口 - 蔡琴.flac",
+    "src": "files/渡口 - 蔡琴.mp3",
     "duration": 227
   },
   {
@@ -1022,10 +1022,10 @@
     "duration": 264
   },
   {
-    "title": "程佳佳 - 山楂树之恋",
-    "artist": "Unknown",
+    "title": "山楂树之恋",
+    "artist": "程佳佳",
     "album": "Unknown",
-    "src": "files/程佳佳 - 山楂树之恋.flac",
+    "src": "files/程佳佳 - 山楂树之恋.mp3",
     "duration": 185
   },
   {
@@ -1050,10 +1050,10 @@
     "duration": 204
   },
   {
-    "title": "筷子兄弟 - 老男孩",
-    "artist": "Unknown",
-    "album": "Unknown",
-    "src": "files/筷子兄弟 - 老男孩.flac",
+    "title": "老男孩",
+    "artist": "筷子兄弟",
+    "album": "父亲",
+    "src": "files/筷子兄弟 - 老男孩.mp3",
     "duration": 300
   },
   {
@@ -1107,9 +1107,9 @@
   },
   {
     "title": "艾琳娜",
-    "artist": "Unknown",
-    "album": "Unknown",
-    "src": "files/艾琳娜.flac",
+    "artist": "动力火车",
+    "album": "光",
+    "src": "files/艾琳娜.mp3",
     "duration": 253
   },
   {
@@ -1146,13 +1146,6 @@
     "album": "Unknown",
     "src": "files/裹着心的光.mp3",
     "duration": 273
-  },
-  {
-    "title": "裹着心的光",
-    "artist": "Unknown",
-    "album": "Unknown",
-    "src": "files/裹着心的光.wav",
-    "duration": 274
   },
   {
     "title": "贝加尔湖畔",
@@ -1260,10 +1253,10 @@
     "duration": 263
   },
   {
-    "title": "陈一发儿 - 童话镇",
-    "artist": "Unknown",
-    "album": "Unknown",
-    "src": "files/陈一发儿 - 童话镇.flac",
+    "title": "童话镇[无损]",
+    "artist": "陈一发儿",
+    "album": "原创大碟",
+    "src": "files/陈一发儿 - 童话镇.mp3",
     "duration": 258
   },
   {
@@ -1316,10 +1309,10 @@
     "duration": 376
   },
   {
-    "title": "黑豹乐队 - Don't Break My Heart",
-    "artist": "Unknown",
+    "title": "Don't Break My Heart",
+    "artist": "黑豹乐队",
     "album": "Unknown",
-    "src": "files/黑豹乐队 - Don't Break My Heart.flac",
+    "src": "files/黑豹乐队 - Don't Break My Heart.mp3",
     "duration": 319
   },
   {
